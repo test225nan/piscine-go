@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hello test225nan"
+echo "Hello test225nan!"
